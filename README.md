@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Ahmet-Arvas
-- 👀 I’m interested in Philosophy and Astronomy
-- 🌱 I’m currently learning mobile app programming
-- 📫 How to reach me : ahmetarvas67@gmail.com
-- 👉 My website : ahmet-arvas.github.io
+Hi, I’m Ahmet Arvas
 
 <!---
 Ahmet-Arvas/Ahmet-Arvas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
